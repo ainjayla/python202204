@@ -5,6 +5,7 @@ if count.isdigit():
     count = int(count)
     i = 0
     while i < count:
+
         print(str(i + 1) + '. kord:', text.upper())
         i += 1
 else:
