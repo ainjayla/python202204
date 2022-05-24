@@ -1,0 +1,16 @@
+otse, 120
+paremale, 90
+otse,120
+paremale,  90
+otse, 120
+ paremale,90
+otse, 120
+   paremale, 90
+otse, 200
+vasakule, 120
+otse, 200
+vasakule, 120
+otse, 200
+vasakule, 120
+otse, 200
+vasakule, 120
